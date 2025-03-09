@@ -74,7 +74,7 @@ const App = () => {
         {user ? (
           <h1 className='text-[1.4vw]'>Welcome Back User</h1>
         ) : (
-          <h1 className='text-[3vw] md:text-[1.4vw]'>Register Now!</h1>
+          <h1 className='text-[3vw] md:text-[1.4vw]'>Create account !</h1>
         )}
 
         {user ? (
